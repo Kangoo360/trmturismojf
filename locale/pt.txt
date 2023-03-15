@@ -3,9 +3,11 @@
 ## Action
 
 ### URL
-LinkBehaviour_DFC49390_E5E4_D2FB_41EC_5C395AA6ED1A.source = https://instagram.com/kangoo360?igshid=YmMyMTA2M2Y=
 LinkBehaviour_D8AF9610_E5E4_55FB_41AD_BBC32C4A286B.source = https://instagram.com/kangoo360?igshid=YmMyMTA2M2Y=
+LinkBehaviour_DFC49390_E5E4_D2FB_41EC_5C395AA6ED1A.source = https://instagram.com/kangoo360?igshid=YmMyMTA2M2Y=
 LinkBehaviour_D840088C_E050_F5A1_41C2_7F717B30C2A0.source = https://instagram.com/trmturjf?igshid=YmMyMTA2M2Y=
+LinkBehaviour_F7C54F15_E664_2367_41DA_1E49749FB347.source = https://instagram.com/trmturjf?igshid=YmMyMTA2M2Y=
+LinkBehaviour_F7B9AF36_E664_63A5_41E0_2AC9E7161744.source = https://wa.me/5532988728147
 LinkBehaviour_DA880E35_E06F_0CED_41E2_239E4BBFFA1B.source = https://wa.me/5532988728147
 
 ## Media
